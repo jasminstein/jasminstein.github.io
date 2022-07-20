@@ -4,7 +4,6 @@ collection: publications
 permalink: /publications/preregwp1
 excerpt: 'Preregistration of my current PhD project on OSF (https://osf.io/f7peu/).'
 date: 2022-07-04
-venue: 'OSF'
 paperurl: 'https://osf.io/f7peu/'
 ---
 Many decisions we make in our daily lives consist of conflicting choices between immediate gratification and long-term outcomes. Self-control is the ability to regulate one’s behavior in the face of temptations in order to achieve specific goals (Gillebaart, 2018; Goschke, 2014; Roberts et al., 2014). However, such decisions are often made under stressful conditions in our daily lives (Smyth et al., 1998). According to a predominant view, acute uncontrollable stress impairs control functions of the prefrontal cortex (PFC) as a main target of stress-induced activation of both the sympathetic nervous system and the hypothalamus-pituitary-adrenal axis (Arnsten, 2009; Shansky & Lipps, 2013; Shields et al., 2016; Tsai et al., 2019). Consistent with this assumption, stress has been shown to have a detrimental impact on cognitive control (Alomari et al., 2015; Bogdanov & Schwabe, 2016; Sänger et al., 2014) and has been associated with a shift from top-down control to stimulus-triggered processing based on subcortical brain regions (Arnsten, 2009), a stronger reliance on habitual responses (Schwabe & Wolf, 2013; Schwabe et al., 2010; Smeets et al., 2019; Wirz et al., 2018), and greater impulsivity as indicated by increased delay discounting (Malesza, 2019) and risky decision-making (Porcelli & Delgado, 2017).
