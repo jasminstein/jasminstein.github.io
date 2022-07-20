@@ -18,7 +18,7 @@ Education
 
 Research Experience
 ======
-* 2020/2021: Master Thesis Project: "bstract Expectations Drive Stimulus-Specific Adaptation in Auditory Cortex", TU Dresden
+* 2020/2021: Master Thesis Project: "Abstract Expectations Drive Stimulus-Specific Adaptation in Auditory Cortex"
 * 2019: Research Internship at Max Planck Institute for Human Cognitive and Brain Science, Leipzig
 * 2018: Student Research Assistant, TU Dresden
 * 2016: Student Research Assistant, German Cancer Research Center, Heidelberg
@@ -47,8 +47,7 @@ Skills
 
 Workshop Participations
 ======
-* 2022: Reproducible neuroimaging workshop, collaboration between the reproNIM net-
-work and the German Association for Psychophysiology and its Application (DGPA)
+* 2022: Reproducible Neuroimaging Workshop (hosted by the reproNIM network)
 * 2021: Cognitive Modeling Academy Hamburg
 
 Conference Contributions
@@ -59,10 +58,4 @@ Conference Contributions
   * Poster: Modulation of self-control by acute and chronic stress
 * 2022: CRC 940 symposium 2022 on volition and cognitive control: from executive functions to meta-control
   * Poster: Modulation of self-control by acute and chronic stress
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
