@@ -11,49 +11,58 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Since 2021: PhD Student at TU Dresden, Germany
+* M.Sc. Psychology: Cognitive-Affective Neuroscience, TU Dresden, 2021
+* B.Sc. Psychology, Heidelberg University, 2017
+* Academic Exchange Year at Queen's University, Kingston ON, Canada, 2015-2016
 
-Work experience
+Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020/2021: Master Thesis Project: "bstract Expectations Drive Stimulus-Specific Adaptation in Auditory Cortex", TU Dresden
+* 2019: Research Internship at Max Planck Institute for Human Cognitive and Brain Science, Leipzig
+* 2018: Student Research Assistant, TU Dresden
+* 2016: Student Research Assistant, German Cancer Research Center, Heidelberg
+* 2014: Student Research Assisstant, Heidelberg University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+Teaching Experience
+======
+* 2021/2022: B.Sc. Seminar: Introduction to Biological Psychology
+* 2014/2015: Teaching Assistant, Heidelberg University
+
+Clinical Experience
+======
+* 2018: Internship at Kliniken Schmieder: Neurology and Neurological Rehabilitation
+
+Service and Leadership
+======
+* since 2022: Elected Member of the Doctoral Council at TU Dresden
+* 2016/2017: Nightline Heidelberg e.V.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* programming languages: MATLAB, Python, R
+* neuroimaging analysis and experimental programming
+* basic experience using bash
+* basics in laTex and Markdown
+
+Workshop Participations
+======
+* 2022: Reproducible neuroimaging workshop, collaboration between the reproNIM net-
+work and the German Association for Psychophysiology and its Application (DGPA)
+* 2021: Cognitive Modeling Academy Hamburg
+
+Conference Contributions
+======
+* 2022: Cognitive Neuroscience Society Annual Meeting, San Francisco
+  * Poster: Modulation of self-control by acute and chronic stress
+* 2022: Psychology and the Brain Conference, Freiburg
+  * Poster: Modulation of self-control by acute and chronic stress
+* 2022: CRC 940 symposium 2022 on volition and cognitive control: from executive functions to meta-control
+  * Poster: Modulation of self-control by acute and chronic stress
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
