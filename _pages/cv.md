@@ -42,8 +42,9 @@ Skills
 ======
 * programming languages: MATLAB, Python, R
 * neuroimaging analysis and experimental programming
-* basic experience using bash
-* basics in laTex and Markdown
+* basic experience with bash
+* basic experience using Git
+* basics in LaTex and Markdown
 
 Workshop Participations
 ======
