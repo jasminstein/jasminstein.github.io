@@ -40,11 +40,11 @@ Service and Leadership
 
 Skills
 ======
-* programming languages: MATLAB, Python, R
-* neuroimaging analysis and experimental programming
-* basic experience with bash
-* basic experience using Git
-* basics in LaTex and Markdown
+* Programming languages: MATLAB, Python, R
+* Neuroimaging analysis and experimental programming
+* Basic experience with bash
+* Basic experience using Git
+* Basics in LaTex and Markdown
 
 Workshop Participations
 ======
