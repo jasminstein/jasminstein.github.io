@@ -12,17 +12,17 @@ redirect_from:
 Education
 ======
 * Since 2021: PhD Student at TU Dresden, Germany
-* M.Sc. Psychology: Cognitive-Affective Neuroscience, TU Dresden, 2021
-* B.Sc. Psychology, Heidelberg University, 2017
-* Academic Exchange Year at Queen's University, Kingston ON, Canada, 2015-2016
+* 2021: M.Sc. Psychology: Cognitive-Affective Neuroscience, TU Dresden
+* 2017: B.Sc. Psychology, Heidelberg University
+* 2015/2016: Academic Exchange Year at Queen's University, Kingston ON, Canada
 
 Research Experience
 ======
 * 2020/2021: Master Thesis Project: "Abstract Expectations Drive Stimulus-Specific Adaptation in Auditory Cortex"
 * 2019: Research Internship at Max Planck Institute for Human Cognitive and Brain Science, Leipzig
-* 2018: Student Research Assistant, TU Dresden
-* 2016: Student Research Assistant, German Cancer Research Center, Heidelberg
-* 2014: Student Research Assisstant, Heidelberg University
+* 2018/2019: Student Research Assistant, TU Dresden
+* 2016/2017: Student Research Assistant, German Cancer Research Center, Heidelberg
+* 2014/2015: Student Research Assisstant, Heidelberg University
 
 Teaching Experience
 ======
