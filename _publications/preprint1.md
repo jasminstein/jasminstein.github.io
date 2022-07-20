@@ -1,7 +1,7 @@
 ---
 title: "Frequency and frequency modulation share the same predictive encoding mechanisms in human auditory cortex"
 collection: publications
-permalink: /publication/preprint1
+permalink: /publications/preprint1
 excerpt: 'Preprint related to my Master's thesis work on auditory processing.'
 date: 2021-10-26
 venue: 'arXiv preprint'
