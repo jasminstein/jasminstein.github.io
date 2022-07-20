@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/preprint1
 excerpt: 'Preprint of my Master's Thesis on Auditory Processing.'
 date: 2021-10-26
-venue: 'arxiv'
+venue: 'Arxiv'
 paperurl: 'https://arxiv.org/abs/2110.13690'
 citation: ''
 ---
 
-[Download paper here](https://arxiv.org/abs/2110.13690)
+[Download paper from Arvix](https://arxiv.org/abs/2110.13690)
