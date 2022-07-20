@@ -1,4 +1,3 @@
-
 ---
 title: "Frequency and frequency modulation share the same predictive encoding mechanisms in human auditory cortex"
 collection: publications
