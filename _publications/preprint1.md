@@ -3,8 +3,8 @@ title: "Frequency and frequency modulation share the same predictive encoding me
 collection: publications
 permalink: /publications/preprint1
 excerpt: 'This preprint is part of my Master's thesis work on auditory processing.'
-date: 2021-10-06
 venue: 'arXiv'
+date: 2021-10-06
 paperurl: 'https://arxiv.org/abs/2110.13690'
 ---
 ## Abstract
