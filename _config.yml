@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Jasmin Stein"
 title_separator          : "-"
-name                     : &name "Jasmin Stein"
-description              : &description "PhD Student in Cognitive Neuroscience"
-url                      : https://jasminstein.github.io #ostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Jasmin Stein"
+description              : "PhD Student in Cognitive Neuroscience"
+url                      : "https://jasminstein.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jasminstein.github.io
+repository               : "jasminstein.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
