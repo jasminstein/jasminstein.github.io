@@ -3,7 +3,7 @@ title: "Preregistration: Modulation of self-control by acute and chronic stress"
 collection: publications
 permalink: /publications/preregwp1
 excerpt: 'Preregistration of my current PhD project.'
-date: 2022
+date: 2022-07-04
 venue: 'OSF'
 paperurl: 'https://osf.io/f7peu/'
 citation: ''
