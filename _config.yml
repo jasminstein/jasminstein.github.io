@@ -181,10 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
+  conferences:
     output: true
     permalink: /:collection/:path/
 
