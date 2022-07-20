@@ -57,6 +57,6 @@ Conference Contributions
   * Poster: Modulation of self-control by acute and chronic stress
 * 2022: Psychology and the Brain Conference, Freiburg
   * Poster: Modulation of self-control by acute and chronic stress
-* 2022: CRC 940 symposium 2022 on volition and cognitive control: from executive functions to meta-control
+* 2022: CRC 940 symposium: "Volition and cognitive control: from executive functions to meta-control"
   * Poster: Modulation of self-control by acute and chronic stress
 
