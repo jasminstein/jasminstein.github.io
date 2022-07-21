@@ -16,7 +16,7 @@ I am a PhD student at Technical University Dresden, Germany, investigating the e
 I am interested in neural mechanisms underlying human decision-making, in how and when cognitive control is recruited to reach desired or anticipated outcomes of our own actions, and in potential variables associated with failure to employ congnitive control. 
 
 ### Stress
-Stress is ubiquitous in daily life and has been shown to impair important cognitive functions. I am investigating the neural correlated underlying the association of actue and chronic stress with alterations in cognitive control processes. To do so, I am combining the collection of endocrinological biomarkers of acute and chronic stress with decision-making tasks and neuroimaging methods.
+Stress is ubiquitous in daily life and has been shown to impair important cognitive functions. I am investigating the neural correlates underlying the association of actue and chronic stress with alterations in cognitive control processes. To do so, I am combining the collection of endocrinological biomarkers of acute and chronic stress with decision-making tasks and neuroimaging methods.
 
 ### fMRI
 State-of-the-art methods for collecting and analyzing fMRI data are subject to ongoing improvements and scientific debate. It is of personal importance to me to follow methodological developments and to incorporate these into my work.
