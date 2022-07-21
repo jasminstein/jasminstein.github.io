@@ -19,7 +19,7 @@ Education
 Research Experience
 ======
 * 2020/2021: Master Thesis Project: "Abstract Expectations Drive Stimulus-Specific Adaptation in Auditory Cortex"
-* 2019: Research Internship at Max Planck Institute for Human Cognitive and Brain Science, Leipzig
+* 2019: Research Internship at Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig
 * 2018/2019: Student Research Assistant, TU Dresden
 * 2016/2017: Student Research Assistant, German Cancer Research Center, Heidelberg
 * 2014/2015: Student Research Assisstant, Heidelberg University
