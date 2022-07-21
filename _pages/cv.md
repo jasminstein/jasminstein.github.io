@@ -49,6 +49,7 @@ Skills
 Workshop Participations
 ======
 * 2022: Reproducible Neuroimaging Workshop (hosted by the reproNIM network)
+* 2022: Open Science Workshop (organized by the integrated graduate school of the CRC 940)
 * 2021: Cognitive Modeling Academy Hamburg
 
 Conference Contributions
