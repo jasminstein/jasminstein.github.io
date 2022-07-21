@@ -31,7 +31,7 @@ Teaching Experience
 
 Clinical Experience
 ======
-* 2018: Internship at Kliniken Schmieder: Neurology and Neurological Rehabilitation
+* 2018: Internship at Kliniken Schmieder: Neurology and Neurological Rehabilitation, Stuttgart
 
 Service and Leadership
 ======
