@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Twitter"
+title: ""
 permalink: /twitter/
 author_profile: true
 redirect_from:
