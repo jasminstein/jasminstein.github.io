@@ -12,10 +12,10 @@ I am currently a PhD student at Technical University Dresden, Germany, investiga
 
 ## Research Interests
 
-# Decision-Making and Cognitive Control
+### Decision-Making and Cognitive Control
 
-# Stress
+### Stress
 
-# fMRI
+### fMRI
 
-# Open Science
+### Open Science
