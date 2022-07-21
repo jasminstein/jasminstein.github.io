@@ -19,7 +19,7 @@ I am interested in neural mechanisms underlying human decision-making, in how an
 Stress is ubiquitous in daily life and has been shown to impair important cognitive functions. I am investigating the neural correlates underlying the association of actue and chronic stress with alterations in cognitive control processes. To do so, I am combining the collection of endocrinological biomarkers of acute and chronic stress with decision-making tasks and neuroimaging methods.
 
 ### fMRI
-State-of-the-art methods for collecting and analyzing fMRI data are subject to ongoing improvements and scientific debate. It is of personal importance to me to follow methodological developments and to incorporate these into my work.
+State-of-the-art methods for collecting and analyzing fMRI data are subject to ongoing improvement and scientific debate. It is of personal importance to me to follow methodological developments and to incorporate these into my work.
 
 ### Open Science
 In my PhD, I want to contribute to open and reproducible neuroscience as much as possible. It is my goal to preregister my studies, to share data, code, and other material with other researchers in order to foster collaborative work among scientists.
