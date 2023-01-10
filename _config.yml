@@ -87,7 +87,9 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Laz69qEAAAAJ&hl=en"
-  mastodon         : "https://mastodon.online/@jsmnStein"
+  mastodon:
+  - username: jsmnStein
+    instance: mastodon.online
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
