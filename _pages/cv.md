@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Since 2021: PhD Student at TU Dresden, Germany
+* 01/2023-04/2024: Visiting PhD Student at Egner Lab, Duke University Durham, NC
 * 2021: M.Sc. Psychology: Cognitive-Affective Neuroscience, TU Dresden
 * 2017: B.Sc. Psychology, Heidelberg University
 * 2015/2016: Academic Exchange Year at Queen's University, Kingston ON, Canada
