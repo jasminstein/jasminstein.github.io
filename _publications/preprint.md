@@ -1,12 +1,12 @@
 ---
-title: "Frequency and frequency modulation share the same predictive encoding mechanisms in human auditory cortex"
+title: "Predictive encoding of pure tones and FM-sweeps in the human auditory cortex"
 collection: publications
-permalink: /publications/preprint
-excerpt: 'Preprint on auditory processing related to my Master thesis work.'
-venue: 'arXiv'
-date: 2021-10-26
+permalink: /publications/MA
+excerpt: 'Paper on auditory processing related to my Master thesis work.'
+venue: 'Cerebral Cortex Communications'
+date: 2022-11-16
 ---
 ## Abstract
-Expectations can substantially influence perception. Predictive coding is a theory of sensory processing that aims to explain the neural mechanisms underlying the effect of expectations in sensory processing. Its main assumption is that sensory neurons encode prediction error with respect to expected sensory input. Neural populations encoding prediction error have been previously reported in the human auditory cortex (AC); however, most studies focused on the encoding of pure tones and induced expectations by stimulus repetition, potentially confounding prediction error with effects of neural habituation. Here, we systematically studied prediction error to pure tones and fast frequency modulated (FM) sweeps across different auditory cortical fields in humans. We conducted two fMRI experiments, each using one type of stimulus. We measured BOLD responses across the bilateral auditory cortical fields Te1.0, Te1.1, Te1.2, and Te3 while participants listened to sequences of sounds. We induced subjective expectations on the incoming sounds independently of stimulus repetition using abstract rules. Our results indicate that pure tones and FM-sweeps are encoded as prediction error with respect to the participants' expectations across auditory cortical fields. The topographical distribution of neural populations encoding prediction error to pure tones and FM-sweeps was highly correlated in left Te1.1 and Te1.2, and in bilateral Te3, suggesting that predictive coding is the general encoding mechanism in AC.
+Expectations substantially influence perception, but the neural mechanisms underlying this influence are not fully understood. A prominent view is that sensory neurons encode prediction error with respect to expectations on upcoming sensory input. Although the encoding of prediction error has been previously demonstrated in the human auditory cortex (AC), previous studies often induced expectations using stimulus repetition, potentially confounding prediction error with neural habituation. These studies also measured AC as a single population, failing to consider possible predictive specializations of different AC fields. Moreover, the few studies that considered prediction error to stimuli other than pure tones yielded conflicting results. Here, we used functional magnetic resonance imaging (fMRI) to systematically investigate prediction error to subjective expectations in auditory cortical fields Te1.0, Te1.1, Te1.2, and Te3, and two types of stimuli: pure tones and frequency modulated (FM) sweeps. Our results show that prediction error is elicited with respect to the participants’ expectations independently of stimulus repetition and similarly expressed across auditory fields. Moreover, despite the radically different strategies underlying the decoding of pure tones and FM-sweeps, both stimulus modalities were encoded as prediction error in most fields of AC. Altogether, our results provide unequivocal evidence that predictive coding is the general encoding mechanism in AC.
 
-[Download preprint from arXiv](https://arxiv.org/pdf/2110.13690.pdf)
+[Open Access](https://academic.oup.com/cercorcomms/article/3/4/tgac047/6831208?utm_source=advanceaccess&utm_campaign=cercorcomms&utm_medium=email)
