@@ -58,6 +58,9 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : "jsmnStein"
+mastodon:
+  username               : "jsminStein"
+  instance               : "mastodon.online"
 facebook:
   username               :
   app_id                 :
@@ -87,7 +90,6 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Laz69qEAAAAJ&hl=en"
-  mastodon         : "mastodon.online@jsmnStein"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
