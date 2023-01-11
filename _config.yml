@@ -88,8 +88,8 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Laz69qEAAAAJ&hl=en"
   mastodon:
-  - username: "jsmnStein"
-    instance: "mastodon.online"
+  - username: jsmnStein
+    instance: mastodon.online
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -266,6 +266,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-twitter-plugin
+  - jekyll/mastodon_webfinger
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
