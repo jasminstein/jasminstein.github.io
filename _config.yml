@@ -88,8 +88,8 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Laz69qEAAAAJ&hl=en"
   mastodon:
-  - username: jsmnStein
-    instance: mastodon.online
+      username: jsmnStein
+      instance: mastodon.online
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
