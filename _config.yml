@@ -266,7 +266,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-twitter-plugin
-  - jekyll/mastodon_webfinger
+  - jekyll-mastodon_webfinger
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
