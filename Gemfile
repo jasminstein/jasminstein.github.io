@@ -19,6 +19,8 @@ gem 'jekyll-twitter-plugin'
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
+bundle add jekyll-mastodon_webfinger
+
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   # gem "jekyll-archives"
