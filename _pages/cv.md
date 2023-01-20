@@ -62,3 +62,8 @@ Conference Contributions
 * 2022: CRC 940 Symposium: "Volition and cognitive control: from executive functions to meta-control", Dresden
   * Poster: Modulation of self-control by acute and chronic stress
 
+Awards
+======
+* Karl-und-Charlotte-Bühler-Award for excellent teaching in 2021/2022 (awarded by the Faculty of Psychology, TU Dresden)
+
+
