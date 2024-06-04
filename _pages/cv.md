@@ -27,7 +27,8 @@ Research Experience
 
 Teaching Experience
 ======
-* 2021/2022: B.Sc. Seminar: Introduction to Biological Psychology
+* 2023/2024: B.Sc. Research Seminar: Experimental Psychology, TU Dresden
+* 2021/2022: B.Sc. Seminar: Introduction to Biological Psychology, TU Dresden
 * 2014/2015: Teaching Assistant, Heidelberg University
 
 Clinical Experience
@@ -36,30 +37,27 @@ Clinical Experience
 
 Service and Leadership
 ======
-* since 2022: Elected Member of the Doctoral Council at TU Dresden
+* 2023/2024: Deputy Spokesperson of the Doctoral Council at TU Dresden
+* 2022/2023: Elected Member of the Doctoral Council at TU Dresden
 * 2016/2017: Nightline Heidelberg e.V.
 
 Skills
 ======
-* Programming languages: MATLAB, Python, R
+* Programming languages: MATLAB, Python, R, Java Script
 * Neuroimaging analysis and experimental programming
 * Basic experience with bash
 * Basic experience using Git
 * Basics in LaTex and Markdown
 
-Workshop Participations
-======
-* 2022: Reproducible Neuroimaging Workshop (hosted by the reproNIM network)
-* 2022: Open Science Workshop (organized by the integrated graduate school of the CRC 940)
-* 2021: Cognitive Modeling Academy Hamburg
-
 Conference Contributions
 ======
+* 2024: ESCAN Conference, Ghent
+  * Poster: Investigating Neural Signatures of Outcome Anticipation in Goal-Directed Behavior
+* 2023: Psychology and the Brain Conference, Tübingen
+  * Poster: Acute Stress Alters Self-Controlled Decision-Making
 * 2022: Cognitive Neuroscience Society Annual Meeting, San Francisco
   * Poster: Modulation of self-control by acute and chronic stress
 * 2022: Psychology and the Brain Conference, Freiburg
-  * Poster: Modulation of self-control by acute and chronic stress
-* 2022: CRC 940 Symposium: "Volition and cognitive control: from executive functions to meta-control", Dresden
   * Poster: Modulation of self-control by acute and chronic stress
 
 Awards
